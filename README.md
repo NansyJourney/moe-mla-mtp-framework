@@ -18,6 +18,7 @@
 1. GPT с MoE Noisy Top-K Gate Feed-Forward
 2. GPT с RoPE и Multi-Head Latent Attention
 3. GPT с Multi-Token Prediction (MTP)
+4. GPT с Multi-Token Prediction (MTP) hybrid - изменена немного структура MTP в связи с небольшим датасетом
 
 ## Структура проекта
 Рекомендуется изучать ноутбуки в порядке, в котором они представлены в списке выше.
